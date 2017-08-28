@@ -44,9 +44,6 @@ C:\LeanTestAutomation\Scripts\default_framework\obj\Debug\Lean.Test.Automation.F
 C:\LeanTestAutomation\Scripts\default_framework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 C:\LeanTestAutomation\Scripts\default_framework\obj\Debug\lean.test.automation.framework.vbprojResolveAssemblyReference.cache
 C:\LeanTestAutomation\Scripts\app-revendedora-OBoticario\bin\Debug\Lean.Test.Automation.Framework.exe.config
-C:\LeanTestAutomation\Scripts\app-revendedora-OBoticario\obj\Debug\Lean.Test.Automation.Framework.exe
-C:\LeanTestAutomation\Scripts\app-revendedora-OBoticario\obj\Debug\Lean.Test.Automation.Framework.xml
-C:\LeanTestAutomation\Scripts\app-revendedora-OBoticario\obj\Debug\Lean.Test.Automation.Framework.pdb
 C:\LeanTestAutomation\Scripts\app-revendedora-OBoticario\bin\Debug\Lean.Test.Automation.Framework.exe.manifest
 C:\LeanTestAutomation\Scripts\app-revendedora-OBoticario\bin\Debug\Lean.Test.Automation.Framework.application
 C:\LeanTestAutomation\Scripts\app-revendedora-OBoticario\bin\Debug\Lean.Test.Automation.Framework.exe
@@ -63,6 +60,9 @@ C:\LeanTestAutomation\Scripts\app-revendedora-OBoticario\bin\Debug\ThoughtWorks.
 C:\LeanTestAutomation\Scripts\app-revendedora-OBoticario\bin\Debug\WebDriver.dll
 C:\LeanTestAutomation\Scripts\app-revendedora-OBoticario\bin\Debug\WebDriver.Support.dll
 C:\LeanTestAutomation\Scripts\app-revendedora-OBoticario\bin\Debug\Emgu.CV.World.dll
-C:\LeanTestAutomation\Scripts\app-revendedora-OBoticario\obj\Debug\lean.test.automation.framework.vbprojResolveAssemblyReference.cache
 C:\LeanTestAutomation\Scripts\app-revendedora-OBoticario\obj\Debug\Lean.Test.Automation.Framework.exe.manifest
 C:\LeanTestAutomation\Scripts\app-revendedora-OBoticario\obj\Debug\Lean.Test.Automation.Framework.application
+C:\LeanTestAutomation\Scripts\app-revendedora-OBoticario\obj\Debug\Lean.Test.Automation.Framework.exe
+C:\LeanTestAutomation\Scripts\app-revendedora-OBoticario\obj\Debug\Lean.Test.Automation.Framework.xml
+C:\LeanTestAutomation\Scripts\app-revendedora-OBoticario\obj\Debug\Lean.Test.Automation.Framework.pdb
+C:\LeanTestAutomation\Scripts\app-revendedora-OBoticario\obj\Debug\lean.test.automation.framework.vbprojResolveAssemblyReference.cache

@@ -67,37 +67,37 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Lean.Test.Automation.API.dll" size="202240">
-      <assemblyIdentity name="Lean.Test.Automation.API" version="3.4.0.0" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="Lean.Test.Automation.API" version="3.5.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>se/+TgAhxNLqNMwbtWS/j5k8dxk=</dsig:DigestValue>
+        <dsig:DigestValue>Km1ESTVV2ZqP/vWUlpgSsV9H2oE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Lean.Test.Automation.Framework.exe" size="95744">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Lean.Test.Automation.Framework.exe" size="107008">
       <assemblyIdentity name="Lean.Test.Automation.Framework" version="3.2.1.1" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>XQDqfdEEtushgd8GLeQVMU4u3t8=</dsig:DigestValue>
+        <dsig:DigestValue>28uYAMqzPfPKhujPmENZ8Z+FwoI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Lean.Test.Automation.Framework.exe" size="98816">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Lean.Test.Automation.Framework.exe" size="99328">
       <assemblyIdentity name="Lean.Test.Automation.Framework" version="3.2.1.1" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>SonLpQSBqsuFvxm5XEaEuWntSXk=</dsig:DigestValue>
+        <dsig:DigestValue>o4Bj3r5dKiKSq4ezCLNSjgYjmzk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

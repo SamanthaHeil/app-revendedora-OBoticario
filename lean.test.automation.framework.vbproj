@@ -245,6 +245,9 @@
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="Scripts\scriptMaster.vb" />
+    <Compile Include="Scripts\test_App_Revendedora_O_Boticario_Login.vb" />
+    <Compile Include="Scripts\test_App_Revendedora_O_Boticario_Validar_Campos.vb" />
+    <Compile Include="Scripts\test_Boticario_Acessar_App.vb" />
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Service References\" />
