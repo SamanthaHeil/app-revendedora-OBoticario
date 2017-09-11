@@ -85,7 +85,6 @@ Namespace LibraryAppium
                     capabilities.SetCapability("appActivity", "br.com.taqtile.android.app.presentation.initialcheck.InitialCheckActivity")
                     capabilities.SetCapability("appWaitActivity", "br.com.taqtile.android.app.presentation.signin.SignInActivity")
 
-
                     'capabilities.SetCapability("FullReset", False)
                     'capabilities.SetCapability("noReset", True)
                     'capabilities.SetCapability("", "")
